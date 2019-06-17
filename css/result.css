@@ -1,0 +1,70 @@
+.logo {
+        text-align: center;
+        margin: 40px auto 60px;
+            
+}
+
+.logo_line {
+    border: 0;
+    height: 3px;
+    background: #3498db;
+    margin: 40px auto 60px;
+}
+
+ul.apk_info {
+    list-style: none;
+}
+ul.pers_info {
+    list-style: none;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+}
+
+div.infos {
+    padding-left: 20%;
+}
+
+div.status {
+    text-align: center;
+}
+
+li.store {
+    background: url('../imgs/store.png') left center no-repeat;
+    background-size: 25px;
+}
+
+li.version {
+    background: url('../imgs/ver.png') left center no-repeat;
+    background-size: 25px;
+}
+
+li.package {
+    background: url('../imgs/pack.png') left center no-repeat;
+    background-size: 25px;
+}
+
+li.per {
+    background: url('../imgs/security.png') left center no-repeat;
+    background-size: 25px;
+}
+img.ok{
+    height: 250px;
+    width: 250px;
+    margin: 40px auto 40px;
+}
+img.yet{
+    height: 250px;
+    width: 300px;
+    margin: 40px auto 40px;
+}
+img.no{
+    height: 250px;
+    width: 250px;
+    margin: 40px auto 40px;
+}
+
+

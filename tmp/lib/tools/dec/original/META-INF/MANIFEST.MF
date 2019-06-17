@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: org/apache/harmony/awt/internal/nls/messages.properties
+SHA1-Digest: vwXzKrF6LyKySPbiJ1D1h9MUd4U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: jZKPjBRfGFF1W5tJtWHIt1FQM0k=
+
+Name: mimetypes.default
+SHA1-Digest: FcRpdgFC9EJbGKuBIYcH9szfAn0=
+
+Name: com/sun/mail/dsn/mailcap
+SHA1-Digest: o1KDD9JSEteURfYtLDavAop5SYs=
+
+Name: dsn.mf
+SHA1-Digest: ZcnUTpTYC4T7g3DQ8FmeC10amkI=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: DxpluPztETvMsg9/aLhuWcF6bUY=
+
+Name: javamail.pop3.provider
+SHA1-Digest: WzFRBqrfpFdRTYf1DJkqJb2M7Bs=
+
+Name: res/layout/send_mail.xml
+SHA1-Digest: FwyQTOfYD25yffrNzxUHyj32j6w=
+
+Name: mailcap.default
+SHA1-Digest: v12EA8RRccouDsMocE4Gzg0x6tE=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: tOjCkxdPZT5iIJoLwfWhWxs+Eww=
+
+Name: javamail.default.providers
+SHA1-Digest: bkkj3t836OZJBFO//usRRCTjZ4U=
+
+Name: javamail.default.address.map
+SHA1-Digest: ODAfS34uRuTBdYzYKPBp+1eqEZk=
+
+Name: javamail.smtp.address.map
+SHA1-Digest: ODAfS34uRuTBdYzYKPBp+1eqEZk=
+
+Name: javamail.smtp.provider
+SHA1-Digest: v7fA/YvXpBEh+h5gmMvr5oeg+r8=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: URKfhtG9idPjRDmXhxtHFn/qUzQ=
+
+Name: javamail.charset.map
+SHA1-Digest: 4BnU1HQIBkJviO43sy0uGhEM8V8=
+
+Name: res/menu/send_mail.xml
+SHA1-Digest: 7DbOS9PrkeeUD9lKy3wnGDmMTDs=
+
+Name: javamail.imap.provider
+SHA1-Digest: z5H5/hqdnZqzU9QuzqbpRCNxp7w=
+
+Name: resources.arsc
+SHA1-Digest: lB8w4gQRjSo2Ul4hJ6lx3KRc46I=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 4yu+jpH6ZpGhEEXA8DoOdBK+eAY=
+
+Name: classes.dex
+SHA1-Digest: OSGICef9MPWeQW+InN/bB20MUhY=
+
+Name: mailcap
+SHA1-Digest: 3GRfn0GMnGlZ92ESUCeowtm66a0=
+
